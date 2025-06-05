@@ -1,6 +1,6 @@
 {
 	"clientVersion": "14.05.70ce66",
-	"launcherVersion": "1.0",
+	"launcherVersion": "0.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "AlienOT",
-	"newClientUrl" : "https://github.com/opentibiabr/canary-launcher/releases/download/1.0.0/client-to-update.zip",
+	"newClientUrl" : "https://github.com/mohuga/alienclient/releases/download/client/AlienOT.zip",
 	"clientExecutable": "client.exe"
 }
